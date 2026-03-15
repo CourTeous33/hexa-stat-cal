@@ -148,8 +148,11 @@ def main():
                 print("    Never reset (always continue to level 20)")
                 continue
 
+            prev_threshold = -1
             for t in sorted(thresholds.keys()):
-                print(f"    At level {t}, if primary ≤ {thresholds[t]}, then reset")
+                if thresholds[t] > prev_threshold:
+                    print(f"    At level {t}, if primary ≤ {thresholds[t]}, then reset")
+                    prev_threshold = thresholds[t]
 
 
 if __name__ == "__main__":

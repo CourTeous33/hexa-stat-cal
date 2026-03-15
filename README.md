@@ -53,13 +53,7 @@ When Main Stat is Lv. 5+, the enhancement chance is increased by 20% (multiplica
 |:---:|:---:|
 | 10 | 1 |
 | 11 | 2 |
-| 12 | 2 |
-| 13 | 2 |
-| 14 | 2 |
 | 15 | 3 |
-| 16 | 3 |
-| 17 | 3 |
-| 18 | 3 |
 | 19 | 4 |
 
 #### Target: Primary Stat >= 7
@@ -67,14 +61,8 @@ When Main Stat is Lv. 5+, the enhancement chance is increased by 20% (multiplica
 | Level | Reset if Primary <= |
 |:---:|:---:|
 | 10 | 2 |
-| 11 | 2 |
 | 12 | 3 |
-| 13 | 3 |
-| 14 | 3 |
-| 15 | 3 |
-| 16 | 3 |
 | 17 | 4 |
-| 18 | 4 |
 | 19 | 5 |
 
 #### Target: Primary Stat >= 8
@@ -82,14 +70,8 @@ When Main Stat is Lv. 5+, the enhancement chance is increased by 20% (multiplica
 | Level | Reset if Primary <= |
 |:---:|:---:|
 | 10 | 3 |
-| 11 | 3 |
-| 12 | 3 |
-| 13 | 3 |
 | 14 | 4 |
-| 15 | 4 |
-| 16 | 4 |
 | 17 | 5 |
-| 18 | 5 |
 | 19 | 6 |
 
 #### Target: Primary Stat >= 9
@@ -97,13 +79,8 @@ When Main Stat is Lv. 5+, the enhancement chance is increased by 20% (multiplica
 | Level | Reset if Primary <= |
 |:---:|:---:|
 | 10 | 3 |
-| 11 | 3 |
-| 12 | 3 |
 | 13 | 4 |
-| 14 | 4 |
-| 15 | 4 |
 | 16 | 5 |
-| 17 | 5 |
 | 18 | 6 |
 | 19 | 7 |
 
@@ -113,11 +90,7 @@ When Main Stat is Lv. 5+, the enhancement chance is increased by 20% (multiplica
 |:---:|:---:|
 | 10 | 3 |
 | 11 | 4 |
-| 12 | 4 |
-| 13 | 4 |
 | 14 | 5 |
-| 15 | 5 |
 | 16 | 6 |
-| 17 | 6 |
 | 18 | 7 |
 | 19 | 8 |
